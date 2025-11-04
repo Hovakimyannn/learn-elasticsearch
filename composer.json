@@ -1,0 +1,14 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "^8.19"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
